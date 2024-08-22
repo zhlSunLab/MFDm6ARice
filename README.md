@@ -6,6 +6,12 @@
 MFDm6ARice
 ```
 
+## Environment
+
+```text
+pytorch=1.13.0=py3.10_cuda11.7_cudnn8.5.0_0
+```
+
 ## Data
 
 We gratefully acknowledge Wang et al. [1] for providing open-source data.
