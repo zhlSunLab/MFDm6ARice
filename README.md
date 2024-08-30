@@ -1,4 +1,4 @@
-# MFD$m^6A$Rice
+# $MFDm^6ARice$
 
 ## Introduction
 
