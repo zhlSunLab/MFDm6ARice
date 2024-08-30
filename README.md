@@ -14,7 +14,7 @@ pytorch=1.13.0=py3.10_cuda11.7_cudnn8.5.0_0
 
 ## Data
 
-We gratefully acknowledge Wang et al. [1] for providing open-source data.
+We gratefully acknowledge Wang et al. [1] for providing open-source rice m6A data.
 
 ## Model
 
@@ -44,7 +44,7 @@ cd ./MFDm6ARice/codes
 
 # In the file param_options.py, modify the parameters as required.
 
-# Example for pred
+# Example for prediction
 python main.py
 ```
 
