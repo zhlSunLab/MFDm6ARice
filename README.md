@@ -1,4 +1,4 @@
-# MFDm$^6$ARice
+# MFD$m^6A$Rice
 
 ## Introduction
 
@@ -14,7 +14,7 @@ pytorch=1.13.0=py3.10_cuda11.7_cudnn8.5.0_0
 
 ## Data
 
-We gratefully acknowledge Wang _et al_. [1] for providing open-source rice m$^6$A data.
+We gratefully acknowledge Wang _et al_. [1] for providing open-source rice $m^6A$ data.
 
 ## Model
 
