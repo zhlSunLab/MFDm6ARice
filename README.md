@@ -72,6 +72,7 @@ python save_class_fea.py
 
 ### Docker image
 >An Ubuntu 20.04 is installed in the mfdm6arice container. It allows some basic commands to be used.
+>
 >Note: The program uses the CPU by default. To use the GPU, users need to call the host GPU successfully in the container.
 
 ```shell
