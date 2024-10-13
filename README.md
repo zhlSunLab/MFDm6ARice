@@ -82,11 +82,13 @@ docker images
 
 # CPU
 docker run -it mfdm6arice /bin/bash
+ls
 ./env/bin/python main.py --help
 ./env/bin/python main.py
 
 # GPU
 docker run --rm --gpus all -it mfdm6arice /bin/bash
+ls
 ./env/bin/python main.py --help
 ./env/bin/python main.py -d cuda:0
 ```
