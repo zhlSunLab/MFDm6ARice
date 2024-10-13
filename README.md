@@ -93,7 +93,7 @@ ls
 ./env/bin/python main.py -d cuda:0
 ```
 
-### Conda
+### Conda virtual environment
 >Note: The device needs to have Anaconda installed.
 
 ```shell
