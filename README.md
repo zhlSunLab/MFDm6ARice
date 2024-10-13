@@ -56,12 +56,16 @@ Performance of independent test sets:
 ## Installation and Usage
 ### Feature encoding
 ```shell
+# Download codes
+git clone https://github.com/zhlSunLab/MFDm6ARice
+
 cd ~/.conda/envs/  # in the ~/conda/envs/ folder or ~/anaconda3/envs/ folder. Replace with your path.
 mkdir MFDm6ARice_fea
 tar -xzvf MFDm6ARice_fea_encoding.tar.gz -C ./MFDm6ARice_fea/
 conda info -e
 conda activate MFDm6ARice_fea
 
+cd ./MFDm6ARice/codes
 python feature_encoding.py
 python save_class_fea.py
 ```
