@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 @Project     : m6A_extra
-@File        : feature_reproduced.py
+@File        : feature_encoding.py
 @Author      : Mengya Liu
 @Date        : 2022/10/22 17:24
 @Description :
