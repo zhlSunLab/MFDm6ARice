@@ -5,7 +5,7 @@
 @File        : save_class_fea.py
 @Author      : Mengya Liu
 @Date        : 2024/5/20 20:38
-@Description :
+@Description : Ref: SMEP
 
 """
 print(__doc__)
