@@ -17,16 +17,16 @@ pytorch=1.13.0=py3.10_cuda11.7_cudnn8.5.0_0
 
 #### Docker image
 ```text
-Link 1: https://pan.baidu.com/s/1iy9GWE0J6bTylPpiZi2I8Q?pwd=hhsl (etraction code: hhsl)
-
-Link 2: https://drive.google.com/drive/folders/1ZIHekVCEVe8U_HTHHeiUiVFqCFQxRYW0?usp=sharing
+Link: https://pan.baidu.com/s/1iy9GWE0J6bTylPpiZi2I8Q?pwd=hhsl (etraction code: hhsl)
+Or
+Link: https://drive.google.com/drive/folders/1ZIHekVCEVe8U_HTHHeiUiVFqCFQxRYW0?usp=sharing
 ```
 
 #### Packed conda environment 
 ```text
-Link 1: https://pan.baidu.com/s/19mg6_xusXVnWfYyBdLmaNA?pwd=o9cc (etraction code: o9cc)
-
-Link 2: https://drive.google.com/drive/folders/1QpUjFGHC3Ak-99Iaa23KBL7DaVa-7sm3?usp=sharing
+Link: https://pan.baidu.com/s/19mg6_xusXVnWfYyBdLmaNA?pwd=o9cc (etraction code: o9cc)
+Or
+Link: https://drive.google.com/drive/folders/1QpUjFGHC3Ak-99Iaa23KBL7DaVa-7sm3?usp=sharing
 ```
 
 ## Data
