@@ -114,6 +114,10 @@ cd ./MFDm6ARice/codes
 python main.py
 ```
 
+## Contact
+
+Please feel free to contact us if you need any help (E-mail: mengyaliu1003@foxmail.com).
+
 ## Cite
 
 ```cite
